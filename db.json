@@ -39,7 +39,7 @@
         "status": "completed",
         "actions": {
           "text": "View Task",
-          "routeURL": "/tasks/view",
+          "routeURL": "/tasks/view/1",
           "options": [
             {
               "icon": "edit",
@@ -63,7 +63,7 @@
         "status": "set",
         "actions": {
           "text": "View Task",
-          "routeURL": "/tasks/view",
+          "routeURL": "/tasks/view/2",
           "options": [
             {
               "icon": "edit",
@@ -87,7 +87,7 @@
         "status": "set",
         "actions": {
           "text": "View Task",
-          "routeURL": "/tasks/view",
+          "routeURL": "/tasks/view/3",
           "options": [
             {
               "icon": "edit",
@@ -111,7 +111,7 @@
         "status": "overdue",
         "actions": {
           "text": "View Task",
-          "routeURL": "/tasks/view",
+          "routeURL": "/tasks/view/4",
           "options": [
             {
               "icon": "edit",
@@ -135,7 +135,7 @@
         "status": "overdue",
         "actions": {
           "text": "View Task",
-          "routeURL": "/tasks/view",
+          "routeURL": "/tasks/view/5",
           "options": [
             {
               "icon": "edit",
@@ -159,7 +159,7 @@
         "status": "overdue",
         "actions": {
           "text": "View Task",
-          "routeURL": "/tasks/view",
+          "routeURL": "/tasks/view/6",
           "options": [
             {
               "icon": "edit",
@@ -183,7 +183,7 @@
         "status": "overdue",
         "actions": {
           "text": "View Task",
-          "routeURL": "/tasks/view",
+          "routeURL": "/tasks/view/8",
           "options": [
             {
               "icon": "edit",
