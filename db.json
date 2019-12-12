@@ -1,9 +1,6 @@
 {
     "displayedColumns": [
-      {
-        "id": "id",
-        "headerValue": "ID"
-      },
+ 
       {
         "id": "title",
         "headerValue": "Task Name"
@@ -156,7 +153,7 @@
         "dtStart": "21/02/2019",
         "dtTarget": "14/04/2019",
         "taskType": "Pro Discuss",
-        "status": "overdue",
+        "status": "set",
         "actions": {
           "text": "View Task",
           "routeURL": "/tasks/view/6",
@@ -180,7 +177,7 @@
         "dtStart": "21/02/2019",
         "dtTarget": "14/04/2019",
         "taskType": "Pro Discuss",
-        "status": "overdue",
+        "status": "set",
         "actions": {
           "text": "View Task",
           "routeURL": "/tasks/view/8",
