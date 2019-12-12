@@ -1,0 +1,25 @@
+{
+    "startDate": "01/01/2019",
+    "hotpoints": [
+      {
+        "title": "Month 1",
+        "status": "Concern",
+        "currentPeriod": false
+      },
+      {
+        "title": "Month 2",
+        "status": "Overdue",
+        "currentPeriod": false
+      },
+      {
+        "title": "Month 3",
+        "status": "Completed",
+        "currentPeriod": true
+      },
+      {
+        "title": "Month 4",
+        "status": "Completed",
+        "currentPeriod": false
+      }
+    ]
+  }
