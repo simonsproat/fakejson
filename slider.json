@@ -20,6 +20,26 @@
         "title": "Month 4",
         "status": "Completed",
         "currentPeriod": false
+      },
+          {
+        "title": "Month 5",
+        "status": "Concern",
+        "currentPeriod": false
+      },
+      {
+        "title": "Month 6",
+        "status": "Overdue",
+        "currentPeriod": false
+      },
+      {
+        "title": "Month 7",
+        "status": "Completed",
+        "currentPeriod": true
+      },
+      {
+        "title": "Month 8",
+        "status": "Completed",
+        "currentPeriod": false
       }
     ]
   }
